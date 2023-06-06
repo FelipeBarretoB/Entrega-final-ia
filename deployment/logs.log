@@ -1,0 +1,921 @@
+2023-05-25 17:42:09,393:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 17:42:09,393:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 17:42:09,393:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 17:42:09,393:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 17:42:22,147:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 17:42:36,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 17:42:36,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 17:42:36,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 17:42:36,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 17:42:36,928:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:01:12,661:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:01:12,661:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:01:12,661:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:01:12,661:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:01:13,764:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:02:11,093:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:02:11,093:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:02:11,093:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:02:11,093:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:02:11,809:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:02:48,888:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:02:48,888:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:02:48,889:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:02:48,889:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:02:50,158:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:03:43,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:03:43,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:03:43,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:03:43,697:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:03:44,349:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:04:22,588:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:04:22,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:04:22,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:04:22,589:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:04:23,141:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:04:38,952:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:04:38,952:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:04:38,952:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:04:38,952:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:04:39,484:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:05:13,286:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:05:13,286:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:05:13,287:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:05:13,287:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:05:13,768:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:07:20,473:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:07:20,473:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:07:20,473:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:07:20,473:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:07:21,242:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:08:02,332:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:08:02,332:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:08:02,332:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:08:02,332:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:08:02,810:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:08:57,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:08:57,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:08:57,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:08:57,206:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:08:57,693:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:11:27,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:11:27,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:11:27,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:11:27,407:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:11:28,006:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:12:30,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:12:30,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:12:30,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:12:30,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:12:31,030:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:14:02,155:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:14:02,155:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:14:02,155:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:14:02,155:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:14:02,838:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:19:08,572:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:19:08,573:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:19:08,573:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:19:08,573:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:19:09,854:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 18:19:36,890:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:19:36,890:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:19:36,890:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:19:36,890:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 18:19:37,374:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 19:57:02,163:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:57:02,164:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:57:02,164:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:57:02,164:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:57:03,172:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 19:58:18,641:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:58:18,641:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:58:18,641:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:58:18,641:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:58:19,395:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 19:59:40,008:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:59:40,009:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:59:40,009:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:59:40,009:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 19:59:40,804:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:00:32,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:00:32,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:00:32,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:00:32,105:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:00:32,910:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:01:37,255:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:01:37,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:01:37,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:01:37,256:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:01:38,038:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:02:10,718:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:02:10,718:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:02:10,718:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:02:10,718:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:02:11,417:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:04:39,332:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:04:39,332:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:04:39,332:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:04:39,332:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:04:40,091:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:05:25,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:05:25,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:05:25,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:05:25,880:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:05:26,636:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:27:59,433:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:27:59,434:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:27:59,434:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:27:59,434:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:28:02,415:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:29:09,939:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:29:09,939:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:29:09,939:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:29:09,939:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:29:10,828:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:30:09,803:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:30:09,803:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:30:09,803:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:30:09,803:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:30:10,611:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:30:40,855:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:30:40,855:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:30:40,856:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:30:40,856:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:30:41,625:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:31:23,380:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:31:23,380:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:31:23,380:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:31:23,380:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:31:24,204:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:31:24,848:INFO:Initializing load_model()
+2023-05-25 20:31:24,848:INFO:load_model(model_name=test, platform=None, authentication=None, verbose=True)
+2023-05-25 20:31:24,861:WARNING:/Users/pipe/Library/CloudStorage/OneDrive-Personal/Escritorio/Cosas/Cosas de la U/Semestre 6/IA/IA/venv/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.1.2', 'setuptools': '58.1.0', 'pycaret': '3.0.2', 'IPython': '8.13.2', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.57.0', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-25 20:43:07,453:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:43:07,454:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:43:07,454:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:43:07,454:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:43:08,503:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:43:09,137:WARNING:/Users/pipe/Library/CloudStorage/OneDrive-Personal/Escritorio/Cosas/Cosas de la U/Semestre 6/IA/IA/venv/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.1.2', 'setuptools': '58.1.0', 'pycaret': '3.0.2', 'IPython': '8.13.2', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.57.0', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-25 20:48:30,639:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:48:30,640:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:48:30,640:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:48:30,640:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:48:31,710:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:48:32,398:WARNING:/Users/pipe/Library/CloudStorage/OneDrive-Personal/Escritorio/Cosas/Cosas de la U/Semestre 6/IA/IA/venv/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.1.2', 'setuptools': '58.1.0', 'pycaret': '3.0.2', 'IPython': '8.13.2', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.57.0', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-25 20:52:27,659:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:52:27,660:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:52:27,660:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:52:27,660:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-25 20:52:28,666:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-25 20:52:29,312:WARNING:/Users/pipe/Library/CloudStorage/OneDrive-Personal/Escritorio/Cosas/Cosas de la U/Semestre 6/IA/IA/venv/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.1.2', 'setuptools': '58.1.0', 'pycaret': '3.0.2', 'IPython': '8.13.2', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.57.0', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-27 09:42:38,634:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:42:38,635:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:42:38,635:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:42:38,635:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:42:40,310:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-27 09:42:41,372:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-27 09:42:41,375:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-27 09:42:41,376:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '8.11.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-27 09:42:45,964:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:42:45,964:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:42:45,964:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:42:45,964:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:42:46,589:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-27 09:42:47,210:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-27 09:42:47,214:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-27 09:42:47,214:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '8.11.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-27 09:46:01,692:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:46:01,693:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:46:01,693:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:46:01,693:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:46:04,478:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-27 09:46:05,359:WARNING:/Users/pipe/Library/CloudStorage/OneDrive-Personal/Escritorio/Cosas/Cosas de la U/Semestre 6/IA/IA/venv/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.1.2', 'setuptools': '58.1.0', 'pycaret': '3.0.2', 'IPython': '8.13.2', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.57.0', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-27 09:48:01,163:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:48:01,164:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:48:01,164:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:48:01,164:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:48:03,750:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-27 09:48:04,650:WARNING:/Users/pipe/Library/CloudStorage/OneDrive-Personal/Escritorio/Cosas/Cosas de la U/Semestre 6/IA/IA/venv/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.1.2', 'setuptools': '58.1.0', 'pycaret': '3.0.2', 'IPython': '8.13.2', 'ipywidgets': '8.0.6', 'tqdm': '4.65.0', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.57.0', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.14.1', 'kaleido': '0.2.1', 'statsmodels': '0.14.0', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-27 09:50:52,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:50:52,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:50:52,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:50:52,382:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:50:54,037:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-27 09:50:55,003:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-27 09:50:55,007:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-27 09:50:55,007:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '8.11.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-27 09:50:59,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:50:59,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:50:59,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:50:59,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-27 09:51:00,396:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-27 09:51:01,554:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-27 09:51:01,559:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-27 09:51:01,560:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '8.11.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 07:11:17,318:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:11:17,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:11:17,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:11:17,322:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:11:19,173:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-31 07:11:20,243:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 07:11:20,247:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 07:11:20,248:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '8.11.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 07:12:14,430:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:12:14,431:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:12:14,431:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:12:14,431:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:12:15,236:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-31 07:12:15,931:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 07:12:15,934:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 07:12:15,935:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '8.11.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 07:12:20,775:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:12:20,775:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:12:20,775:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:12:20,775:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 07:12:21,389:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-31 07:12:22,042:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 07:12:22,045:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 07:12:22,046:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '8.11.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:33:11,142:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:33:11,145:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:33:11,145:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:33:11,146:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:33:15,254:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-31 08:34:32,656:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:34:32,660:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:34:32,660:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:34:32,660:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:34:33,451:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-31 08:35:09,710:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:35:09,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:35:09,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:35:09,712:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-05-31 08:35:10,705:WARNING:
+'prophet' is a soft dependency and not included in the pycaret installation. Please run: `pip install prophet` to install.
+2023-05-31 08:36:19,115:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:36:19,225:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:36:19,623:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:36:23,240:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:36:23,307:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:36:23,510:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:36:38,219:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:36:38,317:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:36:38,626:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:36:39,350:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:37:00,952:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:37:20,582:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:40:13,104:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:40:13,234:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:40:13,611:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:40:58,300:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:40:58,429:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:40:58,852:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:41:03,611:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:41:03,712:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:41:04,007:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:45:45,350:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:45:45,454:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:45:45,838:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:47:50,916:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:47:55,376:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:48:09,267:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:48:09,361:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:48:09,745:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:48:12,906:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:48:12,971:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:48:13,180:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:50:05,209:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:50:05,320:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:50:05,715:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:56:27,669:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:56:27,816:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-05-31 08:56:28,247:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-05-31 08:56:28,406:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 14:52:36,725:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 14:55:08,596:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 14:55:08,754:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 14:55:09,163:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-01 14:56:15,200:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 14:56:15,356:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator BayesianRidge from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 14:56:15,810:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-01 14:56:29,045:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 14:56:54,081:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:00:11,525:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:00:11,670:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:00:12,070:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-01 15:00:15,441:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:00:15,506:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:00:15,706:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-01 15:00:27,632:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:00:27,712:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:00:27,994:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-01 15:27:11,227:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:27:11,387:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:27:11,784:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-01 15:28:10,246:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:28:10,356:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:28:10,736:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-01 15:28:14,644:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:28:14,729:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-01 15:28:14,963:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-05 07:26:10,873:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-05 07:26:11,027:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-05 07:26:11,425:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-05 07:29:11,109:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-05 07:29:11,189:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-05 07:29:11,465:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-05 07:29:14,685:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-05 07:29:14,750:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-05 07:29:14,952:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-05 18:36:11,233:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-05 18:36:11,386:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-05 18:36:11,787:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2023-06-05 18:36:15,230:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator SimpleImputer from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-05 18:36:15,295:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/sklearn/base.py:329: UserWarning: Trying to unpickle estimator KNeighborsRegressor from version 1.2.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+
+2023-06-05 18:36:15,518:WARNING:/Applications/anaconda/anaconda3/lib/python3.9/site-packages/pycaret/internal/pipeline.py:135: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '22.2.2', 'setuptools': '63.4.1', 'pycaret': '3.0.0', 'IPython': '7.33.0', 'ipywidgets': '7.6.5', 'tqdm': '4.64.1', 'numpy': '1.21.5', 'pandas': '1.4.4', 'jinja2': '2.11.3', 'scipy': '1.9.1', 'joblib': '1.2.0', 'sklearn': '1.0.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.0', 'lightgbm': '3.3.5', 'numba': '0.55.1', 'requests': '2.28.1', 'matplotlib': '3.5.2', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.9.0', 'kaleido': '0.2.1', 'statsmodels': '0.13.2', 'sktime': '0.17.1', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.4'}, 'python': {'version': '3.9.13', 'machine': 'x86_64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.0.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.65.0', 'numpy': '1.22.4', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.2.0', 'sklearn': '1.2.2', 'pyod': '1.0.9', 'imblearn': '0.10.1', 'category_encoders': '2.6.1', 'lightgbm': '3.3.5', 'numba': '0.56.4', 'requests': '2.27.1', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.13.1', 'kaleido': '0.2.1', 'statsmodels': '0.13.5', 'sktime': '0.17.0', 'tbats': '1.1.3', 'pmdarima': '2.0.3', 'psutil': '5.9.5'}, 'python': {'version': '3.10.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
